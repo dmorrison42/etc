@@ -1,0 +1,4 @@
+include = cat ~/etc/local/mr/*
+
+[etc]
+checkout = git clone 'https://github.com/dmorrison42/etc' 'etc'

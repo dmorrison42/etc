@@ -1,0 +1,19 @@
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot.git
+[submodule "janus/python-mode"]
+	path = janus/python-mode
+	url = https://github.com/klen/python-mode.git
+[submodule "vim"]
+  path = vim
+  url = https://github.com/carlhuda/janus.git
+  ignore = dirty
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "myrepos"]
+	path = myrepos
+	url = https://github.com/joeyh/myrepos.git
+[submodule "pure"]
+	path = pure
+	url = https://github.com/pengwynn/pure
